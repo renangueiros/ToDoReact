@@ -1,9 +1,3 @@
-<style>
-  hr {
-    border-bottom: 1px solid hsla(210,18%,87%,1);
-  }
-</style>
-
 ## TODOREACT
 
 Exemplo de aplicativo de Lista de Tarefas em React utilizando CDN, Hooks, Babel e Bootstrap.
